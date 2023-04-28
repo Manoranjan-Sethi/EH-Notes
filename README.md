@@ -2,7 +2,7 @@
 
 ## Networking
 
-- IP [link](Networking/Address.md)Address
+- [IP Address](Networking/Address.md)
 - MAC Address
 - TCP, UDP, & the Three-Way Handshake
 - Common Ports & Protocols
