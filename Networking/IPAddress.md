@@ -24,4 +24,4 @@ ifconfig
 
 ### IPv6
 
-    IPv6 uses 128-bit addresses, allowing for an enormous number of unique addresses, which is enough to accommodate the growth of devices on the internet for the foreseeable future. IPv6 also includes new features, such as built-in security and improved support for mobile devices and the Internet of Things (IoT).
+IPv6 uses 128-bit addresses, allowing for an enormous number of unique addresses, which is enough to accommodate the growth of devices on the internet for the foreseeable future. IPv6 also includes new features, such as built-in security and improved support for mobile devices and the Internet of Things (IoT).
